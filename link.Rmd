@@ -1,7 +1,6 @@
 ---
 title: Links
 ---
-<br>
 
 #### [Nomura lab]("http://cogpsy.educ.kyoto-u.ac.jp/en/member/nomura_e.html")
 
