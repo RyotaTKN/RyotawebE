@@ -2,6 +2,6 @@
 title: Links
 ---
 
-#### [Nomura lab]("http://cogpsy.educ.kyoto-u.ac.jp/en/member/nomura_e.html")
+#### [**野村研究室**](http://cogpsy.educ.kyoto-u.ac.jp/en/member/nomura_e.html)
 
-#### [Department of Cognitive Psychology, Graduate School of Education, Kyoto University]("http://cogpsy.educ.kyoto-u.ac.jp/")
+#### [**京都大学大学院教育学研究科 教育認知心理学講座**](http://cogpsy.educ.kyoto-u.ac.jp/)
