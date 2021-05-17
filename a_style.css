@@ -6,11 +6,22 @@ h2 {
   padding-top: 20px;
 }
 h3 {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Yu Gothic UI";
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial,'Yu Gothic UI Semilight';
   color: #3b9d95;
   margin-top: 20px;
   padding-top: 15px;
 }
 h4 {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Yu Gothic UI";
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial,'Yu Gothic UI Semilight';
+}
+
+.normal{
+font-size:16px;
+line-height:normal;
+}
+p.small{
+line-height:90%;
+}
+p.big{
+line-height:150%;
 }
