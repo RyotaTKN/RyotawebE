@@ -1,11 +1,16 @@
 h2 {
+  font-family: "Yu Gothic UI";
   color: #3b9d95;
   border-bottom: 1px solid #3b9d95;
   margin-top: 35px;
   padding-top: 20px;
 }
 h3 {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Yu Gothic UI";
   color: #3b9d95;
   margin-top: 20px;
   padding-top: 15px;
+}
+h4 {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Yu Gothic UI";
 }
