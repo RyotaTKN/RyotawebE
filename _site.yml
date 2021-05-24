@@ -18,6 +18,6 @@ output:
       collapse: false
     df_print: "kable"
     include:
-      after_body: 
+      after_body:  footer.html
     css: a_style.css
 output_dir: "docs"
