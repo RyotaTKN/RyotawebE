@@ -8,6 +8,14 @@ navbar:
       href: works.html
     - text: "Links"
       href: link.html
+  right:
+    - text: "English"
+      href: "https://ryotatkn.github.io/personal_site/" 
+      id: "navbarDropdownMenuLink"
+      role: "button" 
+      data-toggle: "dropdown" 
+      aria-haspopup: "true" 
+      aria-expanded: "false"
 
 output:
   html_document:
